@@ -37,6 +37,8 @@ Collection of articles for the Machine Learning Journal Club
 
 ## Automatic Machine Learning
 
+* Olson RS, Urbanowicz RJ, Andrews PC, Lavender NA, Kidd LC, Moore JH (2016) Automating biomedical data science through tree-based pipeline optimization. Applications of Evolutionary Computation, pages 123-137. http://dx.doi.org/10.1007/978-3-319-31204-0_9
+
 
 ## Software
 
