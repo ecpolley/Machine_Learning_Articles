@@ -30,6 +30,10 @@ Collection of articles for the Machine Learning Journal Club
 
 * Tulio Ribeiro M, Singh S, Guestrin C (2016) "Why Should I Trust You? Explaining the Prediction of Any Classifier" arXiv: https://arxiv.org/abs/1602.04938
 
+* Hall P, Phan W, and Satish Ambati S (2017). Ideas on interpreting machine learning. O’Reilly Ideas, https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
+
+* Lei J, G'Sell M, Rinaldo A, Tibshirani RJ, Wasserman L (2017) Distribtuion-Free Predictive Inference for Regression, arXiv, https://arxiv.org/abs/1604.04173
+
 
 ## Automatic Machine Learning
 
