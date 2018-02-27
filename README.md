@@ -48,3 +48,5 @@ https://www.tensorflow.org/about/bib
 ## History
 
 * Donoho D (2017) 50 Years of Data Science, Journal of Computational and Graphical Statistics, 26(4) 745-766. https://doi.org/10.1080/10618600.2017.1384734
+
+* Stone M (1974) Cross-Validatory Choice and Assessment of Statistical Predictions *with discussion*, Journal of the Royal Statistical Society. Series B, 36(2), 111-147. http://www.jstor.org/stable/2984809
