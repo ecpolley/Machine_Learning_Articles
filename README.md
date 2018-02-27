@@ -21,7 +21,7 @@ Collection of articles for the Machine Learning Journal Club
 
 * Ruczinski I, Kooperberg C, LeBlanc ML (2003) "Logic Regression" Journal of Computational and Graphical Statistics, 12(3), 475-511. https://doi.org/10.1198/1061860032238
 
-* Krstajic D, Buturovic LJ, Leahy DE, Thomas S (2014) "Cross-validation pitfalls when selecting ans assessing regression and classification models" Journal of Cheminformatics, 6(10). https://doi.org/10.1186/1758-2946-6-10
+* Krstajic D, Buturovic LJ, Leahy DE, Thomas S (2014) "Cross-validation pitfalls when selecting and assessing regression and classification models" Journal of Cheminformatics, 6(10). https://doi.org/10.1186/1758-2946-6-10
 
 
 ## Interpretability
