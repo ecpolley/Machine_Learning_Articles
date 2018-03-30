@@ -3,7 +3,7 @@ Collection of articles for the Machine Learning Journal Club.
 
 ## Overview
 
-* Domingos P (2012) A few useful things to know about machine learning. Commun. ACM 55, 10 (October 2012), 78-87. DOI: https://doi.org/10.1145/2347736.2347755 web: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+* Domingos P (2012) "A Few Useful Things to Know About Machine Learning" Commun. ACM 55, 10 (October 2012), 78-87. DOI: https://doi.org/10.1145/2347736.2347755 web: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 
 ## Algorithms
 
