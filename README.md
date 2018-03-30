@@ -1,6 +1,10 @@
 # Machine Learning Articles
 Collection of articles for the Machine Learning Journal Club
 
+## Overview
+
+* Domingos P (2012) A few useful things to know about machine learning. Commun. ACM 55, 10 (October 2012), 78-87. DOI: https://doi.org/10.1145/2347736.2347755 web: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
 ## Algorithms
 
 * Geurts P, Ernst D, Wehenkel L. (2006) "Extremely randomized trees" Machine Learning 63(1). 3-42. https://doi.org/10.1007/s10994-006-6226-1
@@ -23,6 +27,11 @@ Collection of articles for the Machine Learning Journal Club
 
 * Krstajic D, Buturovic LJ, Leahy DE, Thomas S (2014) "Cross-validation pitfalls when selecting and assessing regression and classification models" Journal of Cheminformatics, 6(10). https://doi.org/10.1186/1758-2946-6-10
 
+## Applications
+
+* Prasad N, Cheng L-F, Chivers C, Draugelis M, Engelhardt BE (2017) "A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units" arXiv: https://arxiv.org/abs/1704.06300
+
+* Letham B, Rudin C, McCormick TH, Madigan D (2015) "Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction Model", The Annals of Applied Statistics, 9(3): 1350-1371. https://projecteuclid.org/euclid.aoas/1446488742
 
 ## Interpretability
 
@@ -30,9 +39,13 @@ Collection of articles for the Machine Learning Journal Club
 
 * Tulio Ribeiro M, Singh S, Guestrin C (2016) "Why Should I Trust You? Explaining the Prediction of Any Classifier" arXiv: https://arxiv.org/abs/1602.04938
 
+* Lipton ZC (2017) "The Mythos of Model Interpretability" arXiv: https://arxiv.org/abs/1606.03490
+
 * Hall P, Phan W, and Satish Ambati S (2017). Ideas on interpreting machine learning. O’Reilly Ideas, https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
 * Lei J, G'Sell M, Rinaldo A, Tibshirani RJ, Wasserman L (2017) Distribtuion-Free Predictive Inference for Regression, arXiv, https://arxiv.org/abs/1604.04173
+
+* Fisher A, Rudin C, Dominici F (2018) "Model Class Reliance: Variable Importance Measures for any Machine Learning Model Class, from the 'Rashomon' Perspective" arXiv: https://arxiv.org/abs/1801.01489
 
 
 ## Automatic Machine Learning
