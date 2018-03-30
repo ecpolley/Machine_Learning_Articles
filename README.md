@@ -1,5 +1,5 @@
 # Machine Learning Articles
-Collection of articles for the Machine Learning Journal Club
+Collection of articles for the Machine Learning Journal Club. 
 
 ## Overview
 
