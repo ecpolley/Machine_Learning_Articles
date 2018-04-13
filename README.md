@@ -35,6 +35,10 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Letham B, Rudin C, McCormick TH, Madigan D (2015) "Interpretable Classifiers using Rules and Bayesian Analysis: Building a Better Stroke Prediction Model", The Annals of Applied Statistics, 9(3): 1350-1371. https://projecteuclid.org/euclid.aoas/1446488742
 
+## Imbalanced Data
+
+* He H, Bai Y, Garcia EA, Li S (2008) "ADASYN: Adaptive Synthetic Sampling Approach for Imbalanced Learning"  2008 IEEE International Joint Conference on Neural Networks, 1322-132.: doi: 10.1109/IJCNN.2008.4633969 https://ieeexplore.ieee.org/document/4633969/
+
 ## Interpretability
 
 * Goldstein A, Kapelner A, Bleich J, Pitkin E (2015) "Peeking Inside the Black Box: Visualizing Statistical Learning with Plots of Individual Conditional Expectation" Journal of Computational and Graphical Statistics 24(1), 44–65. https://doi.org/10.1080/10618600.2014.907095
