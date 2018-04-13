@@ -5,6 +5,8 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Domingos P (2012) "A Few Useful Things to Know About Machine Learning" Commun. ACM 55, 10 (October 2012), 78-87. DOI: https://doi.org/10.1145/2347736.2347755 web: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 
+* Beam AL, Kohane IS (2018) "Big Data and Machine Learning in Health Care" JAMA; 319(13): 1317-1318. DOI: 10.1001/jama.2017.18391 http://jamanetwork.com/article.aspx?doi=10.1001/jama.2017.18391
+
 ## Algorithms
 
 * Geurts P, Ernst D, Wehenkel L. (2006) "Extremely randomized trees" Machine Learning 63(1). 3-42. https://doi.org/10.1007/s10994-006-6226-1
