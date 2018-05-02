@@ -7,6 +7,8 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Beam AL, Kohane IS (2018) "Big Data and Machine Learning in Health Care" JAMA; 319(13): 1317-1318. DOI: 10.1001/jama.2017.18391 http://jamanetwork.com/article.aspx?doi=10.1001/jama.2017.18391
 
+* Mehta P, Bukov M, Wang CH, Day AGR, Richardson C, Fisher CK, Schwab DJ (2018) "A high-bias, low-variance introduction to machine learning for physicists" arXiv: https://arxiv.org/abs/1803.08823
+
 ## Algorithms
 
 * Geurts P, Ernst D, Wehenkel L. (2006) "Extremely randomized trees" Machine Learning 63(1). 3-42. https://doi.org/10.1007/s10994-006-6226-1
