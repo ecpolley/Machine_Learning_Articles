@@ -60,6 +60,10 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Olson RS, Urbanowicz RJ, Andrews PC, Lavender NA, Kidd LC, Moore JH (2016) Automating biomedical data science through tree-based pipeline optimization. Applications of Evolutionary Computation, pages 123-137. http://dx.doi.org/10.1007/978-3-319-31204-0_9
 
+## Optimization
+
+* Bottou L, Curtis FE, Nocedal J (2018) Optimization methods for large-scale machine learning. arXiv: https://arxiv.org/abs/1606.04838
+
 
 ## Software
 
