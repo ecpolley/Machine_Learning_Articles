@@ -57,6 +57,8 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Fisher A, Rudin C, Dominici F (2018) "Model Class Reliance: Variable Importance Measures for any Machine Learning Model Class, from the 'Rashomon' Perspective" arXiv: https://arxiv.org/abs/1801.01489
 
+* Molnar, C (2018) "Interpretable Machine Learning": https://christophm.github.io/interpretable-ml-book/
+
 
 ## Automatic Machine Learning
 
