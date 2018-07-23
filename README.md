@@ -13,7 +13,7 @@ Collection of articles for the Machine Learning Journal Club.
 
 ## Algorithms
 
-* Geurts P, Ernst D, Wehenkel L. (2006) "Extremely randomized trees" Machine Learning 63(1). 3-42. https://doi.org/10.1007/s10994-006-6226-1
+* Geurts P, Ernst D, Wehenkel L (2006) "Extremely randomized trees" Machine Learning 63(1). 3-42. https://doi.org/10.1007/s10994-006-6226-1
 
 * Breiman L (2001) "Random Forests" Machine Learning 45(1). 5–32. https://doi.org/10.1023/A:1010933404324
 
