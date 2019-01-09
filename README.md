@@ -59,6 +59,8 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Molnar, C (2018) "Interpretable Machine Learning": https://christophm.github.io/interpretable-ml-book/
 
+* Doshi-Velez F, Kim B (2017) "Towards a rigorous science of interpretable machine learning" arXiv: https://arxiv.org/abs/1702.08608
+
 
 ## Automatic Machine Learning
 
@@ -68,6 +70,9 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Bottou L, Curtis FE, Nocedal J (2018) Optimization methods for large-scale machine learning. arXiv: https://arxiv.org/abs/1606.04838
 
+## Reinforcement learning
+
+* Gotttesman O, Johansson F, Komorowski M, Faisal A, Sontag D, Doshi-Velez F, Celi L (2019) "Guidelines for reinforcement learning in healthcase" https://www.nature.com/articles/s41591-018-0310-5
 
 ## Software
 
