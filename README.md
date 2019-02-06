@@ -53,7 +53,7 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Hall P, Phan W, and Satish Ambati S (2017). Ideas on interpreting machine learning. O’Reilly Ideas, https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
-* Lei J, G'Sell M, Rinaldo A, Tibshirani RJ, Wasserman L (2017) Distribtuion-Free Predictive Inference for Regression, arXiv, https://arxiv.org/abs/1604.04173
+* Lei J, G'Sell M, Rinaldo A, Tibshirani RJ, Wasserman L (2017) Distribution-Free Predictive Inference for Regression, arXiv, https://arxiv.org/abs/1604.04173
 
 * Fisher A, Rudin C, Dominici F (2018) "Model Class Reliance: Variable Importance Measures for any Machine Learning Model Class, from the 'Rashomon' Perspective" arXiv: https://arxiv.org/abs/1801.01489
 
