@@ -61,6 +61,10 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Doshi-Velez F, Kim B (2017) "Towards a rigorous science of interpretable machine learning" arXiv: https://arxiv.org/abs/1702.08608
 
+* Shrikumar A, Greenside P, Kundaje A (2017) "Learning Important Features Through Propagating Activation Differences" arXiv: https://arxiv.org/abs/1704.02685
+
+* Lundberg SM, Lee S-I (2017) "A Unified Approach to Interpreting Model Predictions" http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
+
 
 ## Automatic Machine Learning
 
