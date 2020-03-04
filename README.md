@@ -78,7 +78,7 @@ Collection of articles for the Machine Learning Journal Club.
 
 ## Reinforcement learning
 
-* Gotttesman O, Johansson F, Komorowski M, Faisal A, Sontag D, Doshi-Velez F, Celi L (2019) "Guidelines for reinforcement learning in healthcase" https://www.nature.com/articles/s41591-018-0310-5
+* Gotttesman O, Johansson F, Komorowski M, Faisal A, Sontag D, Doshi-Velez F, Celi L (2019) "Guidelines for reinforcement learning in healthcare" https://www.nature.com/articles/s41591-018-0310-5
 
 ## Software
 
