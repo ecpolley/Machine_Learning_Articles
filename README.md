@@ -80,6 +80,10 @@ Collection of articles for the Machine Learning Journal Club.
 
 * Gotttesman O, Johansson F, Komorowski M, Faisal A, Sontag D, Doshi-Velez F, Celi L (2019) "Guidelines for reinforcement learning in healthcare" https://www.nature.com/articles/s41591-018-0310-5
 
+## Resampling approaches
+
+* Krstajic D, Buturovic LJ, Leahy DE, Thomas S (2014) "Cross-validation pitfalls when selecting and assessing regression and classification models" Journal of Cheminformatics, 6(10) https://www.ncbi.nlm.nih.gov/pubmed/24678909
+
 ## Software
 
 * Abadi M, Agarwal A, et al. (2015) TensorFlow: Large-scale machine learning on heterogeneous systems,
